@@ -50,7 +50,7 @@
 ### Listar cambios de forma visual
 	`git log --graph --all --online`
 	 
-## Información de compañeros
+# Información de compañeros
 
 |NOMBRE | GITHUB |
 |-----------|------------|
